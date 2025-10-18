@@ -4,7 +4,7 @@ I focus on building **clean, scalable APIs** using different databases and archi
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 🟢 **Node.js + Express + MongoDB**  
 Building RESTful APIs, managing authentication, and learning production-ready backend design.
 
@@ -25,7 +25,7 @@ This repository is my personal backend portfolio — a place to experiment, lear
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 **Alseny Kaba**  
 Backend Developer passionate about performance, scalability, and clean architecture.  
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/alsenykaba)
+[GitHub](https://github.com/Alkaba15) • [LinkedIn](https://linkedin.com/in/alsenykaba)
